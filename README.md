@@ -41,7 +41,7 @@ This Power BI dashboard is designed to provide **interactive visual insights** i
 
 ## **📂 Repository Structure**
 📁 `Power BI Report (.pbix)` - Main Power BI file containing all dashboards & analysis.  
-📁 `Data (Excel)` - Contains the raw LNG import & SAP price datasets.  
+📁 `Excel File (.xlsx)` - Contains the raw LNG import & SAP price datasets.  
 📁 `README Documentation` - Includes methodology, insights, and scenario analysis write-ups.  
 📁 `Static PDF Summary` - A quick-view PDF for a snapshot of key metrics and visuals.
 
