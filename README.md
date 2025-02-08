@@ -1,4 +1,4 @@
-# **LNG Energy Analysis to Great Britain: Winter 2022/23**
+# **LNG Energy Analysis: Winter 2022/23**
 
 
 ## **🔍 Overview**
@@ -40,8 +40,8 @@ This Power BI dashboard is designed to provide **interactive visual insights** i
 ---
 
 ## **📂 Repository Structure**
-📁 `PowerBI_Report.pbix` - Main Power BI file containing all dashboards & analysis.  
-📁 `Data` - Contains the raw LNG import & SAP price datasets.  
+📁 `Power BI Report (.pbix)` - Main Power BI file containing all dashboards & analysis.  
+📁 `Data (Excel)` - Contains the raw LNG import & SAP price datasets.  
 📁 `README Documentation` - Includes methodology, insights, and scenario analysis write-ups.  
 📁 `Static PDF Summary` - A quick-view PDF for a snapshot of key metrics and visuals.
 
